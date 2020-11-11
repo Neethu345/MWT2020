@@ -1,0 +1,12 @@
+PUT http://localhost:8090/strings/{newString}
+
+###
+
+DELETE http://localhost:8090/strings/{stringToDelete}
+
+###
+
+PUT http://localhost:8090/strings/{newString}
+
+###
+
