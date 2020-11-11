@@ -1,3 +1,17 @@
+GET http://localhost:8090/personalizedHello/{id}
+
+###
+
+GET http://localhost:8090/personalizedHello/{id}
+
+###
+
+GET http://localhost:8090/test
+
+<> 2020-11-11T112449.200.txt
+
+###
+
 PUT http://localhost:8090/strings/{newString}
 
 ###
